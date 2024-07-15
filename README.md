@@ -1,6 +1,6 @@
 thanks to Clippy95 for teaching me how to do the per-game page<br>
 go here for the list of games: https://github.com/A1eNaz/Xenia-Game-Settings/wiki<br>
-or go here for the FAQ stuff i guess: https://github.com/A1eNaz/Xenia-Settings/wiki<br>
+or go here for the FAQ stuff i guess: https://github.com/A1eNaz/Xenia-Settings/wiki<br><br>
 list of games i need to do:<br>
 007: Blood Stone<br>
 3D Ultra Minigolf<br>
