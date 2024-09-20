@@ -7,7 +7,7 @@ hash = "8F4ECF10C53859FE" # default.xex
     name = "Black Shading Fix"
     desc = "Disables MSAA"
     author = "HouseofTudor"
-    is_enabled = false
+    is_enabled = true
 
     [[patch.be8]] # tilingcode
         address = 0x82E5DCD7
@@ -17,7 +17,7 @@ hash = "8F4ECF10C53859FE" # default.xex
     name = "Skip Intro Movies"
     desc = "Self explanatory"
     author = "HouseofTudor"
-    is_enabled = false
+    is_enabled = true
 
     [[patch.be8]]
         address = 0x8223B1E8
