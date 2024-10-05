@@ -1,7 +1,7 @@
 thanks to Clippy95 for teaching me how to do the per-game page<br>
 go here for the list of games: https://github.com/A1eNaz/Xenia-Game-Settings/wiki
 
-**if you want me to add or fix something in the wiki, follow the template below:**
+## **TEMPLATE FOR ADDING OR FIXING PAGES.**
 
 `GAME NAME`<br>
 Halo 3<br><br>
