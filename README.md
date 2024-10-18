@@ -10,7 +10,7 @@ Halo 3<br><br>
 [Mouse & Keyboard](https://github.com/Clippy95/xenia-canary-mousehook/releases)<br><br>
 `Local/Online for the Game.`<br>
 [Local Play Supported ✅]<br>
-[Online Play Supported ✅]<br>
+[Online Play Supported ❌]<br>
 [System Link Supported without server ✅]<br>
 [System Link Supported with server required. ⚠️]
 
