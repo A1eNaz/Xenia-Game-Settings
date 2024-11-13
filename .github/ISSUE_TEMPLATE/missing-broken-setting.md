@@ -7,11 +7,11 @@ assignees: A1eNaz
 
 ---
 
-**Describe the bug**
+**Describe the bug**<br>
 (example. `clear_memory_page_state = true` doesn't fix the graphics or you forgot to add this in the page.)
 
-**What game?**
+**What game?**<br>
 (example. `Metal Gear Solid V`)
 
-**Expected behavior**
+**Expected behavior**<br>
 (example. `protect_zero = false` stops the game from crashing or it doesn't do anything for the game.)
