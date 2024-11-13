@@ -17,7 +17,7 @@ assignees: A1eNaz
 (example. Yes, the audio is broken and the new decoder can't fix it.)
 
 **Are there patches for the game?**<br>
-BLANK patch and Title Update (if there is) included in the name.
+BLANK patch and Title Update (if there is) included in the name.<br>
 (example. [Crackdown 2 TU 5](https://github.com/xenia-canary/game-patches/blob/main/patches/4D5308BC%20-%20Crackdown%202%20(TU5).patch.toml))
 
 **Does the game have mods/plugins for it?**<br>
