@@ -2,7 +2,7 @@
 name: Missing/Broken setting
 about: YOU MISSED A SETTING/THIS DOESN'T WORK
 title: Missing/Broken Setting
-labels: add, bug, missing
+labels: bug, missing
 assignees: A1eNaz
 
 ---
