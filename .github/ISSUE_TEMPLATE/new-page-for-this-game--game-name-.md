@@ -1,14 +1,11 @@
 ---
-name: New page for this game
+name: New page for this game [Game Name]
 about: YOU SHOULD ADD A NEW PAGE for this game.
-title: New page for this game
+title: ''
 labels: add
 assignees: A1eNaz
 
 ---
-
-**Game name?**<br>
-(example. Rayman Origins)
 
 **What settings should be included?**<br>
 (example. `internal_display_resolution = 16` increases the resolution to 1080p)
