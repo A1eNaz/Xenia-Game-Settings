@@ -1,6 +1,6 @@
 ---
 name: Missing/Broken setting [Game Name]
-about: YOU MISSED A SETTING/THIS DOESN'T WORK
+about: Missing setting or a setting doesn't work on an existing page
 title: ''
 labels: bug, missing
 assignees: A1eNaz
